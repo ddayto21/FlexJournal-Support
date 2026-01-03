@@ -1,22 +1,20 @@
-FlexJournal is an offline-first strength training log designed for lifters who value precision, speed, and long-term progress.
+FlexJournal is a private, offline-first strength training journal designed for accurate logging and long-term progress tracking.
 
-It focuses on fast workout logging, clean data ownership, and clear historical insight, without social features, gamification, or unnecessary friction.
+If you have questions, encounter issues, or want to share feedback, you can reach out using the contact information below.
 
-Philosophy
+Contact
+Email: flexjournal.app@gmail.com
 
-FlexJournal is built as a personal training system, not a content platform.
-	•	No accounts required
-	•	Offline-first by default
-	•	Structured, reliable data
-	•	Minimal, Apple-inspired design
-	•	Optimized for serious strength training
+Common Topics
+	•	App installation or TestFlight access
+	•	Data export or backup questions
+	•	Bug reports or unexpected behavior
+	•	Feature feedback and suggestions
 
-The goal is to make logging effortless and reviewing progress obvious.
+Privacy
+FlexJournal does not require an account. All workout data is stored locally on your device. No personal data is collected or transmitted by default.
 
-Core Features
-	•	Fast workout logging with set-based input
-	•	Structured tracking of weight, reps, rest, and notes
-	•	Curated exercise catalog with consistent identifiers
-	•	Clean workout history and exercise progress views
-	•	Local SQLite database with safe migrations
-	•	Data stored on-device, exportable at any time
+Response Time
+Support inquiries are reviewed on a best-effort basis. You can expect a response within a reasonable timeframe.
+
+Thank you for using FlexJournal.
